@@ -55,6 +55,7 @@
 - [bb-http-server_node](https://github.com/takayoshiotake/bb-http-server_node)
 - [bb-http-server-sample_node](https://github.com/takayoshiotake/bb-http-server-sample_node)
 - [BBDeviceInfo_js](https://github.com/takayoshiotake/BBDeviceInfo_js): Get device information from window.navigator.appVersion
+- [http-guild](https://github.com/takayoshiotake/http-guild)
 - [scpfn.js](https://github.com/takayoshiotake/scpfn.js): Scope functions like Kotlin
 
 ### Misc.
